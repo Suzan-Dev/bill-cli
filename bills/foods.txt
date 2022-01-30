@@ -1,0 +1,5 @@
+Bill Breakdown:
+Pizza:          ...$3.66
+Burger:         ...$1.29
+Tip:            ...$0.00
+Total:          ...$4.95

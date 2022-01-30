@@ -1,0 +1,5 @@
+Bill Breakdown:
+Beer:           ...$5.99
+Vodka:          ...$2.34
+Tip:            ...$2.00
+Total:          ...$10.33
